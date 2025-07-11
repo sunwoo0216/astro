@@ -214,4 +214,3 @@ if st.session_state.comments:
 else:
 
     st.info("아직 댓글이 없습니다. 첫 댓글을 남겨보세요!")
-
