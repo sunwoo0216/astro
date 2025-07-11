@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 # 🌟 앱 제목
-st.title("🌌 별빛의 색으로 온도 재기 + CCD 센서 탐구")
+st.title("🌌 별빛의 색으로 온도 재기")
 
 # 👋 소개
 st.markdown("""
